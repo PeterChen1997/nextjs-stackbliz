@@ -5,12 +5,12 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Create Next App</title>
+        <title>Create2 222 Next App</title>
       </Head>
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
+          Welcom1e 22 to <a href="https://nextjs.org">Next.js!</a>
         </h1>
 
         <p className={styles.description}>
